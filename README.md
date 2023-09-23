@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="40LsY7i"><a href="https://imgur.com/40LsY7i">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <img src='https://i.imgur.com/40LsY7i.mp4' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
 
 ## Notes
