@@ -1,32 +1,18 @@
-# Web Development Project 1 - *KAWAII*
+# *KAWAII*
+## Description
+**KAWAII** is a webapp built using React which displays a list of the cutest animals on earth delivering on the promise of 'Cuteness Guaranteed'. On each card of KAWAII, you can see where the cute animal is located from and a cute video of them as well.
 
-Submitted by: **Jason Lobo**
-
-This web app: **KAWAII is a webapp built using React which displays a list of the cutest animals on earth delivering on the promise of 'Cuteness Guaranteed'. On each card of KAWAII, you can see where the cute animal is located from and a cute video of them as well.**
-
-Time spent: **5** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
+## Features
+The following **required** functionality are implemented:
 - [x] **There is a unique theme for events or resources relevant to a specific community**
 - [x] **At least 10 unique resources or events are displayed in a responsive card format**
-
-The following **optional** features are implemented:
-
 - [x] Buttons or links to a related resources are on each card component
 - [x] The site is responsive for both desktop and mobile formats
 
 ## Video Walkthrough
+Here's a walkthrough of the implemented features:
 
-Here's a walkthrough of implemented required features:
-https://i.imgur.com/40LsY7i.mp4
-
-## Notes
-
-Describe any challenges encountered while building the app.
-Responsiveness implementation
+https://github.com/iamjasonlobo/community_board/assets/105331420/40f6c0ee-1bff-4a5c-88a6-7be74e9a3637
 
 ## License
 
